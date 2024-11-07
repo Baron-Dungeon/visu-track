@@ -1,0 +1,24 @@
+{
+  "data":{
+    "lyrics_schnoopy":{
+      "lines":[
+        "Schnoopy",
+        ""
+      ]
+    },
+    "lyrics_schnoopy_destination_unknown":{
+      "lines":[
+        "",
+        "Destination Unknown"
+      ]
+    },
+    "lyrics_alkapivo":{
+      "lines":[
+        "Alkapivo",
+        "2024"
+      ]
+    }
+  },
+  "version":"1",
+  "model":"Collection<io.alkapivo.visu.service.lyrics.LyricsTemplate>"
+}
