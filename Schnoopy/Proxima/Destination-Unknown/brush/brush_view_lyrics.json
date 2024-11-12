@@ -1,6 +1,7 @@
 {
   "data":[
     {
+      "color":"#009EB9",
       "properties":{
         "view-lyrics_align-h":"CENTER",
         "view-lyrics_align-v":"TOP",
@@ -18,15 +19,15 @@
         "view-lyrics_timeout":1.0,
         "view-lyrics_transform-angle":{
           "increase":0.0,
+          "target":280.0,
           "value":320.0,
-          "factor":0.40000000000000002,
-          "target":280.0
+          "factor":0.40000000000000002
         },
         "view-lyrics_transform-speed":{
           "increase":0.0,
+          "target":8.0,
           "value":0.10000000000000001,
-          "factor":0.002,
-          "target":8.0
+          "factor":0.002
         },
         "view-lyrics_use-finish-delay":true,
         "view-lyrics_use-line-delay":true,
@@ -38,12 +39,12 @@
         "view-lyrics_x":0.25,
         "view-lyrics_y":0.40000000000000002
       },
-      "texture":"texture_visu_editor_icon_event_view",
-      "type":"brush_view_lyrics",
       "name":"lyrics_alkapivo",
-      "color":"#009EB9"
+      "texture":"texture_visu_editor_icon_event_view",
+      "type":"brush_view_lyrics"
     },
     {
+      "color":"#F914FF",
       "properties":{
         "view-lyrics_align-h":"LEFT",
         "view-lyrics_align-v":"TOP",
@@ -61,15 +62,15 @@
         "view-lyrics_timeout":1.0,
         "view-lyrics_transform-angle":{
           "increase":0.0,
+          "target":280.0,
           "value":320.0,
-          "factor":0.40000000000000002,
-          "target":280.0
+          "factor":0.40000000000000002
         },
         "view-lyrics_transform-speed":{
           "increase":0.00050000000000000001,
+          "target":0.25,
           "value":2.0,
-          "factor":0.0016000000000000001,
-          "target":0.25
+          "factor":0.0016000000000000001
         },
         "view-lyrics_use-finish-delay":true,
         "view-lyrics_use-line-delay":false,
@@ -81,12 +82,12 @@
         "view-lyrics_x":0.14999999999999999,
         "view-lyrics_y":0.44
       },
-      "texture":"texture_visu_editor_icon_event_view",
-      "type":"brush_view_lyrics",
       "name":"lyrics_track_name",
-      "color":"#F914FF"
+      "texture":"texture_visu_editor_icon_event_view",
+      "type":"brush_view_lyrics"
     },
     {
+      "color":"#F998FF",
       "properties":{
         "view-lyrics_align-h":"LEFT",
         "view-lyrics_align-v":"TOP",
@@ -104,15 +105,15 @@
         "view-lyrics_timeout":1.0,
         "view-lyrics_transform-angle":{
           "increase":0.0,
+          "target":280.0,
           "value":320.0,
-          "factor":0.40000000000000002,
-          "target":280.0
+          "factor":0.40000000000000002
         },
         "view-lyrics_transform-speed":{
           "increase":0.00050000000000000001,
+          "target":0.25,
           "value":2.0,
-          "factor":0.0016000000000000001,
-          "target":0.25
+          "factor":0.0016000000000000001
         },
         "view-lyrics_use-finish-delay":true,
         "view-lyrics_use-line-delay":false,
@@ -124,12 +125,11 @@
         "view-lyrics_x":0.14999999999999999,
         "view-lyrics_y":0.44
       },
-      "texture":"texture_visu_editor_icon_event_view",
-      "type":"brush_view_lyrics",
       "name":"lyrics_artist_name",
-      "color":"#F998FF"
+      "texture":"texture_visu_editor_icon_event_view",
+      "type":"brush_view_lyrics"
     }
   ],
-  "version":"1",
-  "model":"Collection<io.alkapivo.visu.editor.api.VEBrushTemplate>"
+  "model":"Collection<io.alkapivo.visu.editor.api.VEBrushTemplate>",
+  "version":"1"
 }

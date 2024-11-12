@@ -1,6 +1,7 @@
 {
   "data":[
     {
+      "color":"#FF0000",
       "properties":{
         "view-glitch_factor":1.0,
         "view-glitch_jumble-jumbleness":0.0,
@@ -21,12 +22,12 @@
         "view-glitch_use-config":true,
         "view-glitch_use-factor":true
       },
-      "texture":"texture_baron",
-      "type":"brush_view_glitch",
       "name":"glitch reset",
-      "color":"#FF0000"
+      "texture":"texture_baron",
+      "type":"brush_view_glitch"
     },
     {
+      "color":"#32C7FF",
       "properties":{
         "view-glitch_factor":0.060728999999999998,
         "view-glitch_jumble-jumbleness":0.20000000000000001,
@@ -47,12 +48,12 @@
         "view-glitch_use-config":true,
         "view-glitch_use-factor":true
       },
-      "texture":"texture_baron",
-      "type":"brush_view_glitch",
       "name":"glitch 1",
-      "color":"#32C7FF"
+      "texture":"texture_baron",
+      "type":"brush_view_glitch"
     },
     {
+      "color":"#8D00FF",
       "properties":{
         "view-glitch_factor":0.10931200000000001,
         "view-glitch_jumble-jumbleness":0.30364400000000002,
@@ -73,12 +74,12 @@
         "view-glitch_use-config":true,
         "view-glitch_use-factor":true
       },
-      "texture":"texture_baron",
-      "type":"brush_view_glitch",
       "name":"glitch 2",
-      "color":"#8D00FF"
+      "texture":"texture_baron",
+      "type":"brush_view_glitch"
     },
     {
+      "color":"#5DFF00",
       "properties":{
         "view-glitch_factor":0.12550600000000001,
         "view-glitch_jumble-jumbleness":0.052631999999999998,
@@ -99,12 +100,12 @@
         "view-glitch_use-config":true,
         "view-glitch_use-factor":true
       },
-      "texture":"texture_baron",
-      "type":"brush_view_glitch",
       "name":"glitch 3",
-      "color":"#5DFF00"
+      "texture":"texture_baron",
+      "type":"brush_view_glitch"
     },
     {
+      "color":"#FF15DC",
       "properties":{
         "view-glitch_factor":0.10931200000000001,
         "view-glitch_jumble-jumbleness":0.193798,
@@ -125,12 +126,12 @@
         "view-glitch_use-config":true,
         "view-glitch_use-factor":true
       },
-      "texture":"texture_baron",
-      "type":"brush_view_glitch",
       "name":"glitch 4",
-      "color":"#FF15DC"
+      "texture":"texture_baron",
+      "type":"brush_view_glitch"
     },
     {
+      "color":"#FFFF00",
       "properties":{
         "view-glitch_factor":0.65000000000000002,
         "view-glitch_jumble-jumbleness":0.82999999999999996,
@@ -151,12 +152,12 @@
         "view-glitch_use-config":true,
         "view-glitch_use-factor":true
       },
-      "texture":"texture_baron",
-      "type":"brush_view_glitch",
       "name":"glitch 5",
-      "color":"#FFFF00"
+      "texture":"texture_baron",
+      "type":"brush_view_glitch"
     },
     {
+      "color":"#FF005B",
       "properties":{
         "view-glitch_factor":0.32520300000000002,
         "view-glitch_jumble-jumbleness":0.29268300000000003,
@@ -177,12 +178,11 @@
         "view-glitch_use-config":true,
         "view-glitch_use-factor":true
       },
-      "texture":"texture_baron",
-      "type":"brush_view_glitch",
       "name":"glitch 6",
-      "color":"#FF005B"
+      "texture":"texture_baron",
+      "type":"brush_view_glitch"
     }
   ],
-  "version":"1",
-  "model":"Collection<io.alkapivo.visu.editor.api.VEBrushTemplate>"
+  "model":"Collection<io.alkapivo.visu.editor.api.VEBrushTemplate>",
+  "version":"1"
 }

@@ -16,6 +16,15 @@
           }
         },
         {
+          "name": "Schnoopy",
+          "event": {
+            "type": "open-node",
+            "data": {
+              "node": "root.artists.schnoopy"
+            }
+          }
+        },
+        {
           "name": "zoogies",
           "event": {
             "type": "open-node",
@@ -45,6 +54,21 @@
             "type": "load-track",
             "data": {
               "path": "track/kedy_selma/Singles/Passion/manifest.visu"
+            }
+          }
+        }
+      ]
+    },
+    "root.artists.schnoopy": {
+      "title": "Select track",
+      "back": "root.artists",
+      "entries": [
+        {
+          "name": "Destination Unknown",
+          "event": {
+            "type": "load-track",
+            "data": {
+              "path": "track/Schnoopy/Proxima/Destination-Unknown/manifest.visu"
             }
           }
         }

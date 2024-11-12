@@ -4,6 +4,6 @@
       "file":"Schnoopy-Destination-Unknown.ogg"
     }
   },
-  "version":"1",
-  "model":"Collection<io.alkapivo.core.service.sound.SoundIntent>"
+  "model":"Collection<io.alkapivo.core.service.sound.SoundIntent>",
+  "version":"1"
 }

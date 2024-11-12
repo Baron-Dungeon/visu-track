@@ -1,5 +1,11 @@
 {
   "data":{
+    "lyrics_alkapivo":{
+      "lines":[
+        "Alkapivo",
+        "2024"
+      ]
+    },
     "lyrics_schnoopy":{
       "lines":[
         "Schnoopy",
@@ -11,14 +17,8 @@
         "",
         "Destination Unknown"
       ]
-    },
-    "lyrics_alkapivo":{
-      "lines":[
-        "Alkapivo",
-        "2024"
-      ]
     }
   },
-  "version":"1",
-  "model":"Collection<io.alkapivo.visu.service.lyrics.LyricsTemplate>"
+  "model":"Collection<io.alkapivo.visu.service.lyrics.LyricsTemplate>",
+  "version":"1"
 }

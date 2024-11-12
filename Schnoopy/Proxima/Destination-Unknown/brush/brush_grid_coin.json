@@ -1,6 +1,7 @@
 {
   "data":[
     {
+      "color":"#FFFF00",
       "properties":{
         "grid-coin_channels-spawn-x":50.0,
         "grid-coin_channels-spawn-y":0.0,
@@ -13,12 +14,12 @@
         "grid-coin_use-spawn-x":true,
         "grid-coin_use-spawn-y":true
       },
-      "texture":"texture_bazyl",
-      "type":"brush_grid_coin",
       "name":"bomb",
-      "color":"#FFFF00"
+      "texture":"texture_bazyl",
+      "type":"brush_grid_coin"
     },
     {
+      "color":"#FF0000",
       "properties":{
         "grid-coin_channels-spawn-x":50.0,
         "grid-coin_channels-spawn-y":0.0,
@@ -31,12 +32,12 @@
         "grid-coin_use-spawn-x":true,
         "grid-coin_use-spawn-y":true
       },
-      "texture":"texture_bazyl",
-      "type":"brush_grid_coin",
       "name":"force",
-      "color":"#FF0000"
+      "texture":"texture_bazyl",
+      "type":"brush_grid_coin"
     },
     {
+      "color":"#00FF00",
       "properties":{
         "grid-coin_channels-spawn-x":50.0,
         "grid-coin_channels-spawn-y":0.0,
@@ -49,12 +50,12 @@
         "grid-coin_use-spawn-x":true,
         "grid-coin_use-spawn-y":true
       },
-      "texture":"texture_bazyl",
-      "type":"brush_grid_coin",
       "name":"life",
-      "color":"#00FF00"
+      "texture":"texture_bazyl",
+      "type":"brush_grid_coin"
     },
     {
+      "color":"#006EFF",
       "properties":{
         "grid-coin_channels-spawn-x":50.0,
         "grid-coin_channels-spawn-y":0.0,
@@ -67,12 +68,12 @@
         "grid-coin_use-spawn-x":true,
         "grid-coin_use-spawn-y":true
       },
-      "texture":"texture_bazyl",
-      "type":"brush_grid_coin",
       "name":"point",
-      "color":"#006EFF"
+      "texture":"texture_bazyl",
+      "type":"brush_grid_coin"
     },
     {
+      "color":"#FF0000",
       "properties":{
         "grid-coin_channels-spawn-x":50.0,
         "grid-coin_channels-spawn-y":0.0,
@@ -85,12 +86,12 @@
         "grid-coin_use-spawn-x":true,
         "grid-coin_use-spawn-y":true
       },
-      "texture":"texture_bazyl",
-      "type":"brush_grid_coin",
       "name":"force-5",
-      "color":"#FF0000"
+      "texture":"texture_bazyl",
+      "type":"brush_grid_coin"
     },
     {
+      "color":"#006EFF",
       "properties":{
         "grid-coin_channels-spawn-x":50.0,
         "grid-coin_channels-spawn-y":0.0,
@@ -103,12 +104,11 @@
         "grid-coin_use-spawn-x":true,
         "grid-coin_use-spawn-y":true
       },
-      "texture":"texture_bazyl",
-      "type":"brush_grid_coin",
       "name":"point-5",
-      "color":"#006EFF"
+      "texture":"texture_bazyl",
+      "type":"brush_grid_coin"
     }
   ],
-  "version":"1",
-  "model":"Collection<io.alkapivo.visu.editor.api.VEBrushTemplate>"
+  "model":"Collection<io.alkapivo.visu.editor.api.VEBrushTemplate>",
+  "version":"1"
 }
