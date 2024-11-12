@@ -1,124 +1,136 @@
 {
-  "model":"Collection<io.alkapivo.visu.service.bullet.BulletTemplate>",
-  "version":"1",
   "data":{
-    "bullet-baron-1-boom":{
-      "lifespawnMax":10.0,
+    "bullet-swing":{
+      "angleWiggleInterval":{
+        "increase":0.0001,
+        "target":0.050000000000000003,
+        "value":0.0,
+        "factor":0.001
+      },
+      "angleWiggleValue":{
+        "increase":0.0,
+        "target":26.0,
+        "value":0.0,
+        "factor":2.0
+      },
       "randomDirection":true,
       "sprite":{
+        "scaleX":4.0,
         "alpha":1.0,
-        "scaleX":7.5,
-        "scaleY":7.5,
-        "animate":false,
+        "scaleY":4.0,
         "name":"texture_bullet_circle",
+        "animate":false,
         "blend":"#FFFFFF",
         "randomFrame":true,
         "speed":10.0,
-        "frame":1.0,
-        "angle":0.0
+        "angle":0.0,
+        "frame":2.0
+      },
+      "mask":{
+        "width":36.0,
+        "x":12.0,
+        "y":12.0,
+        "height":36.0
+      },
+      "lifespawnMax":10.0,
+      "angleTransformer":{
+        "increase":0.0,
+        "target":-15.0,
+        "value":0.0,
+        "factor":0.20000000000000001
       }
+    },
+    "bullet-baron-1-boom":{
+      "sprite":{
+        "scaleX":7.5,
+        "alpha":1.0,
+        "scaleY":7.5,
+        "name":"texture_bullet_circle",
+        "animate":false,
+        "blend":"#FFFFFF",
+        "randomFrame":true,
+        "speed":10.0,
+        "angle":0.0,
+        "frame":1.0
+      },
+      "mask":{
+        "width":36.0,
+        "x":12.0,
+        "y":12.0,
+        "height":36.0
+      },
+      "lifespawnMax":10.0,
+      "randomDirection":true
     },
     "bullet-shroom":{
       "sprite":{
-        "alpha":1.0,
         "scaleX":3.5,
+        "alpha":1.0,
         "scaleY":3.5,
-        "animate":false,
         "name":"texture_bullet",
+        "animate":false,
         "blend":"#FFFFFF",
         "randomFrame":false,
         "speed":10.0,
-        "frame":4.0,
-        "angle":0.0
+        "angle":0.0,
+        "frame":4.0
+      },
+      "mask":{
+        "width":36.0,
+        "x":12.0,
+        "y":12.0,
+        "height":36.0
       }
     },
     "bullet-player":{
       "sprite":{
+        "scaleX":2.0,
         "alpha":0.82113800000000003,
-        "scaleX":3.0,
-        "scaleY":3.0,
-        "animate":1.0,
+        "scaleY":4.0,
         "name":"texture_bullet",
+        "animate":1.0,
         "blend":"#FFFFFF",
         "randomFrame":false,
         "speed":10.0,
-        "frame":3.1457803333333292,
-        "angle":0.0
+        "angle":0.0,
+        "frame":0.55920966666666683
       }
     },
     "bullet-bazyl-1-boom":{
-      "lifespawnMax":10.0,
-      "angleTransformer":{
-        "target":30.0,
-        "value":0.0,
-        "increase":0.0,
-        "factor":1.0
-      },
+      "randomDirection":true,
       "sprite":{
-        "alpha":1.0,
         "scaleX":5.0,
+        "alpha":1.0,
         "scaleY":5.0,
-        "animate":true,
         "name":"texture_bullet_circle",
+        "animate":true,
         "blend":"#FFFFFF",
         "randomFrame":false,
         "speed":10.0,
-        "frame":2.8927403333333284,
-        "angle":0.0
+        "angle":0.0,
+        "frame":1.19648
+      },
+      "mask":{
+        "width":36.0,
+        "x":12.0,
+        "y":12.0,
+        "height":36.0
       },
       "speedTransformer":{
+        "increase":0.0,
         "target":6.0,
         "value":0.0,
-        "increase":0.0,
         "factor":0.20000000000000001
       },
-      "randomDirection":true,
-      "mask":{
-        "x":10.0,
-        "y":10.0,
-        "width":44.0,
-        "height":44.0
-      }
-    },
-    "bullet-swing":{
       "lifespawnMax":10.0,
       "angleTransformer":{
-        "target":-15.0,
-        "value":0.0,
         "increase":0.0,
-        "factor":0.20000000000000001
-      },
-      "angleWiggleInterval":{
-        "target":0.050000000000000003,
+        "target":30.0,
         "value":0.0,
-        "increase":0.0001,
-        "factor":0.001
-      },
-      "angleWiggleValue":{
-        "target":26.0,
-        "value":0.0,
-        "increase":0.0,
-        "factor":2.0
-      },
-      "sprite":{
-        "alpha":1.0,
-        "scaleX":4.0,
-        "scaleY":4.0,
-        "animate":false,
-        "name":"texture_bullet_circle",
-        "blend":"#FFFFFF",
-        "randomFrame":true,
-        "speed":10.0,
-        "frame":0.10566333333333011,
-        "angle":0.0
-      },
-      "randomDirection":true,
-      "mask":{
-        "x":10.0,
-        "y":10.0,
-        "width":44.0,
-        "height":44.0
+        "factor":1.0
       }
     }
-  }
+  },
+  "model":"Collection<io.alkapivo.visu.service.bullet.BulletTemplate>",
+  "version":"1"
 }
