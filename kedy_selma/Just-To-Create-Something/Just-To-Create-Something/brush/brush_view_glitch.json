@@ -1,10 +1,7 @@
 {
-  "model":"Collection<io.alkapivo.visu.editor.api.VEBrushTemplate>",
-  "version":"1",
   "data":[
     {
       "color":"#FFFFFF",
-      "texture":"texture_baron",
       "properties":{
         "view-glitch_factor":0.060728999999999998,
         "view-glitch_jumble-jumbleness":0.20000000000000001,
@@ -25,12 +22,12 @@
         "view-glitch_use-config":true,
         "view-glitch_use-factor":true
       },
-      "type":"brush_view_glitch",
-      "name":"glitch 1"
+      "name":"glitch 1",
+      "texture":"texture_baron",
+      "type":"brush_view_glitch"
     },
     {
       "color":"#FFFFFF",
-      "texture":"texture_baron",
       "properties":{
         "view-glitch_factor":0.10931200000000001,
         "view-glitch_jumble-jumbleness":0.30364400000000002,
@@ -51,12 +48,12 @@
         "view-glitch_use-config":true,
         "view-glitch_use-factor":true
       },
-      "type":"brush_view_glitch",
-      "name":"glitch 2"
+      "name":"glitch 2",
+      "texture":"texture_baron",
+      "type":"brush_view_glitch"
     },
     {
       "color":"#FFFFFF",
-      "texture":"texture_baron",
       "properties":{
         "view-glitch_factor":0.12550600000000001,
         "view-glitch_jumble-jumbleness":0.052631999999999998,
@@ -77,12 +74,12 @@
         "view-glitch_use-config":true,
         "view-glitch_use-factor":true
       },
-      "type":"brush_view_glitch",
-      "name":"glitch 3"
+      "name":"glitch 3",
+      "texture":"texture_baron",
+      "type":"brush_view_glitch"
     },
     {
       "color":"#FFFFFF",
-      "texture":"texture_baron",
       "properties":{
         "view-glitch_factor":0.10931200000000001,
         "view-glitch_jumble-jumbleness":0.193798,
@@ -103,12 +100,12 @@
         "view-glitch_use-config":true,
         "view-glitch_use-factor":true
       },
-      "type":"brush_view_glitch",
-      "name":"glitch 4"
+      "name":"glitch 4",
+      "texture":"texture_baron",
+      "type":"brush_view_glitch"
     },
     {
       "color":"#FFFFFF",
-      "texture":"texture_baron",
       "properties":{
         "view-glitch_factor":0.65000000000000002,
         "view-glitch_jumble-jumbleness":0.82999999999999996,
@@ -129,8 +126,11 @@
         "view-glitch_use-config":true,
         "view-glitch_use-factor":true
       },
-      "type":"brush_view_glitch",
-      "name":"glitch 5"
+      "name":"glitch 5",
+      "texture":"texture_baron",
+      "type":"brush_view_glitch"
     }
-  ]
+  ],
+  "model":"Collection<io.alkapivo.visu.editor.api.VEBrushTemplate>",
+  "version":"1"
 }

@@ -1,11 +1,9 @@
 {
-  "model":"Collection<io.alkapivo.visu.service.lyrics.LyricsTemplate>",
-  "version":"1",
   "data":{
-    "lyrics_alkapivo":{
+    "lyrics_kedy_selma":{
       "lines":[
-        "Alkapivo",
-        "2024"
+        "kedy_selma",
+        ""
       ]
     },
     "lyrics_kedy_selma_jtcs_poem":{
@@ -19,17 +17,19 @@
         "kedy_selma"
       ]
     },
-    "lyrics_kedy_selma":{
-      "lines":[
-        "kedy_selma",
-        ""
-      ]
-    },
     "lyrics_kedy_selma_jtcs":{
       "lines":[
         "",
         "Just To Create Something"
       ]
+    },
+    "lyrics_alkapivo":{
+      "lines":[
+        "Alkapivo",
+        "2024"
+      ]
     }
-  }
+  },
+  "model":"Collection<io.alkapivo.visu.service.lyrics.LyricsTemplate>",
+  "version":"1"
 }

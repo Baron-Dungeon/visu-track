@@ -1,11 +1,10 @@
 {
-  "model":"Collection<io.alkapivo.visu.editor.api.VEBrushTemplate>",
-  "version":"1",
   "data":[
     {
       "color":"#FF00FF",
-      "texture":"texture_baron",
       "properties":{
+        "shroom-spawn_use-spawn-x":true,
+        "shroom-spawn_use-spawn-y":true,
         "shroom-spawn_angle":270.0,
         "shroom-spawn_channels-spawn-x":7.0,
         "shroom-spawn_channels-spawn-y":50.0,
@@ -20,17 +19,17 @@
         "shroom-spawn_use-angle":true,
         "shroom-spawn_use-preview":true,
         "shroom-spawn_use-snap-h":false,
-        "shroom-spawn_use-snap-v":true,
-        "shroom-spawn_use-spawn-x":true,
-        "shroom-spawn_use-spawn-y":true
+        "shroom-spawn_use-snap-v":true
       },
-      "type":"brush_shroom_spawn",
-      "name":"baron-1-boom-r30"
+      "name":"baron-1-boom-r30",
+      "texture":"texture_baron",
+      "type":"brush_shroom_spawn"
     },
     {
       "color":"#0000FF",
-      "texture":"texture_baron",
       "properties":{
+        "shroom-spawn_use-spawn-x":true,
+        "shroom-spawn_use-spawn-y":true,
         "shroom-spawn_angle":270.0,
         "shroom-spawn_channels-spawn-x":50.0,
         "shroom-spawn_channels-spawn-y":8.0,
@@ -45,17 +44,17 @@
         "shroom-spawn_use-angle":true,
         "shroom-spawn_use-preview":true,
         "shroom-spawn_use-snap-h":false,
-        "shroom-spawn_use-snap-v":true,
-        "shroom-spawn_use-spawn-x":true,
-        "shroom-spawn_use-spawn-y":true
+        "shroom-spawn_use-snap-v":true
       },
-      "type":"brush_shroom_spawn",
-      "name":"baron-1-turns-r-s2x6"
+      "name":"baron-1-turns-r-s2x6",
+      "texture":"texture_baron",
+      "type":"brush_shroom_spawn"
     },
     {
       "color":"#FF0000",
-      "texture":"texture_baron",
       "properties":{
+        "shroom-spawn_use-spawn-x":true,
+        "shroom-spawn_use-spawn-y":true,
         "shroom-spawn_angle":270.0,
         "shroom-spawn_channels-spawn-x":7.0,
         "shroom-spawn_channels-spawn-y":8.0,
@@ -66,17 +65,17 @@
         "shroom-spawn_use-angle":true,
         "shroom-spawn_use-preview":true,
         "shroom-spawn_use-snap-h":false,
-        "shroom-spawn_use-snap-v":true,
-        "shroom-spawn_use-spawn-x":true,
-        "shroom-spawn_use-spawn-y":true
+        "shroom-spawn_use-snap-v":true
       },
-      "type":"brush_shroom_spawn",
-      "name":"baron-1-turns-l-s2x6"
+      "name":"baron-1-turns-l-s2x6",
+      "texture":"texture_baron",
+      "type":"brush_shroom_spawn"
     },
     {
       "color":"#00FF00",
-      "texture":"texture_baron",
       "properties":{
+        "shroom-spawn_use-spawn-x":true,
+        "shroom-spawn_use-spawn-y":true,
         "shroom-spawn_angle":270.0,
         "shroom-spawn_channels-spawn-x":7.0,
         "shroom-spawn_channels-spawn-y":8.0,
@@ -87,17 +86,17 @@
         "shroom-spawn_use-angle":true,
         "shroom-spawn_use-preview":true,
         "shroom-spawn_use-snap-h":true,
-        "shroom-spawn_use-snap-v":true,
-        "shroom-spawn_use-spawn-x":true,
-        "shroom-spawn_use-spawn-y":true
+        "shroom-spawn_use-snap-v":true
       },
-      "type":"brush_shroom_spawn",
-      "name":"baron-1-p5"
+      "name":"baron-1-p5",
+      "texture":"texture_baron",
+      "type":"brush_shroom_spawn"
     },
     {
       "color":"#FF00FF",
-      "texture":"texture_baron",
       "properties":{
+        "shroom-spawn_use-spawn-x":true,
+        "shroom-spawn_use-spawn-y":true,
         "shroom-spawn_angle":298.78542510121457,
         "shroom-spawn_channels-spawn-x":30.0,
         "shroom-spawn_channels-spawn-y":30.0,
@@ -112,17 +111,17 @@
         "shroom-spawn_use-angle":true,
         "shroom-spawn_use-preview":true,
         "shroom-spawn_use-snap-h":false,
-        "shroom-spawn_use-snap-v":true,
-        "shroom-spawn_use-spawn-x":true,
-        "shroom-spawn_use-spawn-y":true
+        "shroom-spawn_use-snap-v":true
       },
-      "type":"brush_shroom_spawn",
-      "name":"baron-1-swing"
+      "name":"baron-1-swing",
+      "texture":"texture_baron",
+      "type":"brush_shroom_spawn"
     },
     {
       "color":"#FFFF00",
-      "texture":"texture_baron",
       "properties":{
+        "shroom-spawn_use-spawn-x":true,
+        "shroom-spawn_use-spawn-y":true,
         "shroom-spawn_angle":270.0,
         "shroom-spawn_channels-spawn-x":7.0,
         "shroom-spawn_channels-spawn-y":8.0,
@@ -133,17 +132,17 @@
         "shroom-spawn_use-angle":true,
         "shroom-spawn_use-preview":true,
         "shroom-spawn_use-snap-h":false,
-        "shroom-spawn_use-snap-v":true,
-        "shroom-spawn_use-spawn-x":true,
-        "shroom-spawn_use-spawn-y":true
+        "shroom-spawn_use-snap-v":true
       },
-      "type":"brush_shroom_spawn",
-      "name":"baron-1-r8"
+      "name":"baron-1-r8",
+      "texture":"texture_baron",
+      "type":"brush_shroom_spawn"
     },
     {
       "color":"#FFFFFF",
-      "texture":"texture_bazyl",
       "properties":{
+        "shroom-spawn_use-spawn-x":true,
+        "shroom-spawn_use-spawn-y":true,
         "shroom-spawn_angle":270.0,
         "shroom-spawn_channels-spawn-x":30.0,
         "shroom-spawn_channels-spawn-y":30.0,
@@ -154,17 +153,17 @@
         "shroom-spawn_use-angle":true,
         "shroom-spawn_use-preview":true,
         "shroom-spawn_use-snap-h":false,
-        "shroom-spawn_use-snap-v":true,
-        "shroom-spawn_use-spawn-x":true,
-        "shroom-spawn_use-spawn-y":true
+        "shroom-spawn_use-snap-v":true
       },
-      "type":"brush_shroom_spawn",
-      "name":"bazyl-1-intro"
+      "name":"bazyl-1-intro",
+      "texture":"texture_bazyl",
+      "type":"brush_shroom_spawn"
     },
     {
       "color":"#C9F526",
-      "texture":"texture_bazyl",
       "properties":{
+        "shroom-spawn_use-spawn-x":true,
+        "shroom-spawn_use-spawn-y":true,
         "shroom-spawn_angle":270.0,
         "shroom-spawn_channels-spawn-x":50.0,
         "shroom-spawn_channels-spawn-y":50.0,
@@ -179,17 +178,17 @@
         "shroom-spawn_use-angle":true,
         "shroom-spawn_use-preview":true,
         "shroom-spawn_use-snap-h":false,
-        "shroom-spawn_use-snap-v":false,
-        "shroom-spawn_use-spawn-x":true,
-        "shroom-spawn_use-spawn-y":true
+        "shroom-spawn_use-snap-v":false
       },
-      "type":"brush_shroom_spawn",
-      "name":"bazyl-1-boomerang-l"
+      "name":"bazyl-1-boomerang-l",
+      "texture":"texture_bazyl",
+      "type":"brush_shroom_spawn"
     },
     {
       "color":"#6AFF58",
-      "texture":"texture_bazyl",
       "properties":{
+        "shroom-spawn_use-spawn-x":true,
+        "shroom-spawn_use-spawn-y":true,
         "shroom-spawn_angle":90.0,
         "shroom-spawn_channels-spawn-x":50.0,
         "shroom-spawn_channels-spawn-y":50.0,
@@ -204,17 +203,17 @@
         "shroom-spawn_use-angle":true,
         "shroom-spawn_use-preview":true,
         "shroom-spawn_use-snap-h":false,
-        "shroom-spawn_use-snap-v":false,
-        "shroom-spawn_use-spawn-x":true,
-        "shroom-spawn_use-spawn-y":true
+        "shroom-spawn_use-snap-v":false
       },
-      "type":"brush_shroom_spawn",
-      "name":"bazyl-1-boomerang-r"
+      "name":"bazyl-1-boomerang-r",
+      "texture":"texture_bazyl",
+      "type":"brush_shroom_spawn"
     },
     {
       "color":"#FF0000",
-      "texture":"texture_bazyl",
       "properties":{
+        "shroom-spawn_use-spawn-x":true,
+        "shroom-spawn_use-spawn-y":true,
         "shroom-spawn_angle":270.0,
         "shroom-spawn_channels-spawn-x":30.0,
         "shroom-spawn_channels-spawn-y":30.0,
@@ -225,17 +224,17 @@
         "shroom-spawn_use-angle":true,
         "shroom-spawn_use-preview":true,
         "shroom-spawn_use-snap-h":false,
-        "shroom-spawn_use-snap-v":true,
-        "shroom-spawn_use-spawn-x":true,
-        "shroom-spawn_use-spawn-y":true
+        "shroom-spawn_use-snap-v":true
       },
-      "type":"brush_shroom_spawn",
-      "name":"bazyl-1-p5"
+      "name":"bazyl-1-p5",
+      "texture":"texture_bazyl",
+      "type":"brush_shroom_spawn"
     },
     {
       "color":"#FF4D58",
-      "texture":"texture_bazyl",
       "properties":{
+        "shroom-spawn_use-spawn-x":true,
+        "shroom-spawn_use-spawn-y":true,
         "shroom-spawn_angle":270.0,
         "shroom-spawn_channels-spawn-x":30.0,
         "shroom-spawn_channels-spawn-y":30.0,
@@ -246,17 +245,17 @@
         "shroom-spawn_use-angle":true,
         "shroom-spawn_use-preview":true,
         "shroom-spawn_use-snap-h":false,
-        "shroom-spawn_use-snap-v":true,
-        "shroom-spawn_use-spawn-x":true,
-        "shroom-spawn_use-spawn-y":true
+        "shroom-spawn_use-snap-v":true
       },
-      "type":"brush_shroom_spawn",
-      "name":"bazyl-1-turns-r"
+      "name":"bazyl-1-turns-r",
+      "texture":"texture_bazyl",
+      "type":"brush_shroom_spawn"
     },
     {
       "color":"#6AB7FF",
-      "texture":"texture_bazyl",
       "properties":{
+        "shroom-spawn_use-spawn-x":true,
+        "shroom-spawn_use-spawn-y":true,
         "shroom-spawn_angle":270.0,
         "shroom-spawn_channels-spawn-x":30.0,
         "shroom-spawn_channels-spawn-y":30.0,
@@ -267,17 +266,17 @@
         "shroom-spawn_use-angle":true,
         "shroom-spawn_use-preview":true,
         "shroom-spawn_use-snap-h":false,
-        "shroom-spawn_use-snap-v":true,
-        "shroom-spawn_use-spawn-x":true,
-        "shroom-spawn_use-spawn-y":true
+        "shroom-spawn_use-snap-v":true
       },
-      "type":"brush_shroom_spawn",
-      "name":"bazyl-1-turns-l"
+      "name":"bazyl-1-turns-l",
+      "texture":"texture_bazyl",
+      "type":"brush_shroom_spawn"
     },
     {
       "color":"#FF00FF",
-      "texture":"texture_bazyl",
       "properties":{
+        "shroom-spawn_use-spawn-x":true,
+        "shroom-spawn_use-spawn-y":true,
         "shroom-spawn_angle":270.0,
         "shroom-spawn_channels-spawn-x":30.0,
         "shroom-spawn_channels-spawn-y":30.0,
@@ -288,17 +287,17 @@
         "shroom-spawn_use-angle":true,
         "shroom-spawn_use-preview":true,
         "shroom-spawn_use-snap-h":false,
-        "shroom-spawn_use-snap-v":true,
-        "shroom-spawn_use-spawn-x":true,
-        "shroom-spawn_use-spawn-y":true
+        "shroom-spawn_use-snap-v":true
       },
-      "type":"brush_shroom_spawn",
-      "name":"bazyl-1-sniper-p5"
+      "name":"bazyl-1-sniper-p5",
+      "texture":"texture_bazyl",
+      "type":"brush_shroom_spawn"
     },
     {
       "color":"#0064FF",
-      "texture":"texture_bazyl",
       "properties":{
+        "shroom-spawn_use-spawn-x":true,
+        "shroom-spawn_use-spawn-y":true,
         "shroom-spawn_angle":270.0,
         "shroom-spawn_channels-spawn-x":30.0,
         "shroom-spawn_channels-spawn-y":30.0,
@@ -309,17 +308,17 @@
         "shroom-spawn_use-angle":true,
         "shroom-spawn_use-preview":true,
         "shroom-spawn_use-snap-h":false,
-        "shroom-spawn_use-snap-v":true,
-        "shroom-spawn_use-spawn-x":true,
-        "shroom-spawn_use-spawn-y":true
+        "shroom-spawn_use-snap-v":true
       },
-      "type":"brush_shroom_spawn",
-      "name":"bazyl-1-star-s3x8"
+      "name":"bazyl-1-star-s3x8",
+      "texture":"texture_bazyl",
+      "type":"brush_shroom_spawn"
     },
     {
       "color":"#684DFF",
-      "texture":"texture_bazyl",
       "properties":{
+        "shroom-spawn_use-spawn-x":true,
+        "shroom-spawn_use-spawn-y":true,
         "shroom-spawn_angle":270.0,
         "shroom-spawn_channels-spawn-x":30.0,
         "shroom-spawn_channels-spawn-y":30.0,
@@ -334,17 +333,17 @@
         "shroom-spawn_use-angle":true,
         "shroom-spawn_use-preview":true,
         "shroom-spawn_use-snap-h":false,
-        "shroom-spawn_use-snap-v":false,
-        "shroom-spawn_use-spawn-x":true,
-        "shroom-spawn_use-spawn-y":true
+        "shroom-spawn_use-snap-v":false
       },
-      "type":"brush_shroom_spawn",
-      "name":"bazyl-1-intro-p2x8"
+      "name":"bazyl-1-intro-p2x8",
+      "texture":"texture_bazyl",
+      "type":"brush_shroom_spawn"
     },
     {
       "color":"#49FF47",
-      "texture":"texture_bazyl",
       "properties":{
+        "shroom-spawn_use-spawn-x":true,
+        "shroom-spawn_use-spawn-y":true,
         "shroom-spawn_angle":270.0,
         "shroom-spawn_channels-spawn-x":30.0,
         "shroom-spawn_channels-spawn-y":30.0,
@@ -359,17 +358,17 @@
         "shroom-spawn_use-angle":true,
         "shroom-spawn_use-preview":true,
         "shroom-spawn_use-snap-h":false,
-        "shroom-spawn_use-snap-v":false,
-        "shroom-spawn_use-spawn-x":true,
-        "shroom-spawn_use-spawn-y":true
+        "shroom-spawn_use-snap-v":false
       },
-      "type":"brush_shroom_spawn",
-      "name":"bazyl-1-intro-p6x2"
+      "name":"bazyl-1-intro-p6x2",
+      "texture":"texture_bazyl",
+      "type":"brush_shroom_spawn"
     },
     {
       "color":"#FF396C",
-      "texture":"texture_bazyl",
       "properties":{
+        "shroom-spawn_use-spawn-x":true,
+        "shroom-spawn_use-spawn-y":true,
         "shroom-spawn_angle":270.0,
         "shroom-spawn_channels-spawn-x":30.0,
         "shroom-spawn_channels-spawn-y":30.0,
@@ -384,17 +383,17 @@
         "shroom-spawn_use-angle":true,
         "shroom-spawn_use-preview":true,
         "shroom-spawn_use-snap-h":false,
-        "shroom-spawn_use-snap-v":false,
-        "shroom-spawn_use-spawn-x":true,
-        "shroom-spawn_use-spawn-y":true
+        "shroom-spawn_use-snap-v":false
       },
-      "type":"brush_shroom_spawn",
-      "name":"bazyl-1-intro-r6x3"
+      "name":"bazyl-1-intro-r6x3",
+      "texture":"texture_bazyl",
+      "type":"brush_shroom_spawn"
     },
     {
       "color":"#96B5FF",
-      "texture":"texture_bazyl",
       "properties":{
+        "shroom-spawn_use-spawn-x":true,
+        "shroom-spawn_use-spawn-y":true,
         "shroom-spawn_angle":270.0,
         "shroom-spawn_channels-spawn-x":30.0,
         "shroom-spawn_channels-spawn-y":30.0,
@@ -405,17 +404,17 @@
         "shroom-spawn_use-angle":true,
         "shroom-spawn_use-preview":true,
         "shroom-spawn_use-snap-h":false,
-        "shroom-spawn_use-snap-v":false,
-        "shroom-spawn_use-spawn-x":true,
-        "shroom-spawn_use-spawn-y":true
+        "shroom-spawn_use-snap-v":false
       },
-      "type":"brush_shroom_spawn",
-      "name":"bazyl-1-boom-s2"
+      "name":"bazyl-1-boom-s2",
+      "texture":"texture_bazyl",
+      "type":"brush_shroom_spawn"
     },
     {
       "color":"#00FF00",
-      "texture":"texture_baron",
       "properties":{
+        "shroom-spawn_use-spawn-x":true,
+        "shroom-spawn_use-spawn-y":true,
         "shroom-spawn_angle":180.0,
         "shroom-spawn_channels-spawn-x":30.0,
         "shroom-spawn_channels-spawn-y":30.0,
@@ -426,17 +425,17 @@
         "shroom-spawn_use-angle":true,
         "shroom-spawn_use-preview":true,
         "shroom-spawn_use-snap-h":true,
-        "shroom-spawn_use-snap-v":true,
-        "shroom-spawn_use-spawn-x":true,
-        "shroom-spawn_use-spawn-y":true
+        "shroom-spawn_use-snap-v":true
       },
-      "type":"brush_shroom_spawn",
-      "name":"baron-1-thunder-r"
+      "name":"baron-1-thunder-r",
+      "texture":"texture_baron",
+      "type":"brush_shroom_spawn"
     },
     {
       "color":"#00FF00",
-      "texture":"texture_baron",
       "properties":{
+        "shroom-spawn_use-spawn-x":true,
+        "shroom-spawn_use-spawn-y":true,
         "shroom-spawn_angle":180.0,
         "shroom-spawn_channels-spawn-x":30.0,
         "shroom-spawn_channels-spawn-y":30.0,
@@ -447,17 +446,17 @@
         "shroom-spawn_use-angle":true,
         "shroom-spawn_use-preview":true,
         "shroom-spawn_use-snap-h":true,
-        "shroom-spawn_use-snap-v":true,
-        "shroom-spawn_use-spawn-x":true,
-        "shroom-spawn_use-spawn-y":true
+        "shroom-spawn_use-snap-v":true
       },
-      "type":"brush_shroom_spawn",
-      "name":"baron-1-thunder-r-p3x2"
+      "name":"baron-1-thunder-r-p3x2",
+      "texture":"texture_baron",
+      "type":"brush_shroom_spawn"
     },
     {
       "color":"#FFFF00",
-      "texture":"texture_baron",
       "properties":{
+        "shroom-spawn_use-spawn-x":true,
+        "shroom-spawn_use-spawn-y":true,
         "shroom-spawn_angle":0.0,
         "shroom-spawn_channels-spawn-x":30.0,
         "shroom-spawn_channels-spawn-y":30.0,
@@ -468,17 +467,17 @@
         "shroom-spawn_use-angle":true,
         "shroom-spawn_use-preview":true,
         "shroom-spawn_use-snap-h":true,
-        "shroom-spawn_use-snap-v":true,
-        "shroom-spawn_use-spawn-x":true,
-        "shroom-spawn_use-spawn-y":true
+        "shroom-spawn_use-snap-v":true
       },
-      "type":"brush_shroom_spawn",
-      "name":"baron-1-thunder-l"
+      "name":"baron-1-thunder-l",
+      "texture":"texture_baron",
+      "type":"brush_shroom_spawn"
     },
     {
       "color":"#FFFF00",
-      "texture":"texture_baron",
       "properties":{
+        "shroom-spawn_use-spawn-x":true,
+        "shroom-spawn_use-spawn-y":true,
         "shroom-spawn_angle":0.0,
         "shroom-spawn_channels-spawn-x":30.0,
         "shroom-spawn_channels-spawn-y":30.0,
@@ -489,17 +488,17 @@
         "shroom-spawn_use-angle":true,
         "shroom-spawn_use-preview":true,
         "shroom-spawn_use-snap-h":true,
-        "shroom-spawn_use-snap-v":true,
-        "shroom-spawn_use-spawn-x":true,
-        "shroom-spawn_use-spawn-y":true
+        "shroom-spawn_use-snap-v":true
       },
-      "type":"brush_shroom_spawn",
-      "name":"baron-1-thunder-l-p3x2"
+      "name":"baron-1-thunder-l-p3x2",
+      "texture":"texture_baron",
+      "type":"brush_shroom_spawn"
     },
     {
       "color":"#FF0000",
-      "texture":"texture_baron",
       "properties":{
+        "shroom-spawn_use-spawn-x":true,
+        "shroom-spawn_use-spawn-y":true,
         "shroom-spawn_angle":180.0,
         "shroom-spawn_channels-spawn-x":50.0,
         "shroom-spawn_channels-spawn-y":50.0,
@@ -514,17 +513,17 @@
         "shroom-spawn_use-angle":true,
         "shroom-spawn_use-preview":true,
         "shroom-spawn_use-snap-h":false,
-        "shroom-spawn_use-snap-v":false,
-        "shroom-spawn_use-spawn-x":true,
-        "shroom-spawn_use-spawn-y":true
+        "shroom-spawn_use-snap-v":false
       },
-      "type":"brush_shroom_spawn",
-      "name":"baron-1-zig-r"
+      "name":"baron-1-zig-r",
+      "texture":"texture_baron",
+      "type":"brush_shroom_spawn"
     },
     {
       "color":"#FF0000",
-      "texture":"texture_baron",
       "properties":{
+        "shroom-spawn_use-spawn-x":true,
+        "shroom-spawn_use-spawn-y":true,
         "shroom-spawn_angle":180.0,
         "shroom-spawn_channels-spawn-x":30.0,
         "shroom-spawn_channels-spawn-y":30.0,
@@ -535,17 +534,17 @@
         "shroom-spawn_use-angle":true,
         "shroom-spawn_use-preview":true,
         "shroom-spawn_use-snap-h":false,
-        "shroom-spawn_use-snap-v":true,
-        "shroom-spawn_use-spawn-x":true,
-        "shroom-spawn_use-spawn-y":true
+        "shroom-spawn_use-snap-v":true
       },
-      "type":"brush_shroom_spawn",
-      "name":"baron-1-zig-r-p2x3"
+      "name":"baron-1-zig-r-p2x3",
+      "texture":"texture_baron",
+      "type":"brush_shroom_spawn"
     },
     {
       "color":"#0000FF",
-      "texture":"texture_baron",
       "properties":{
+        "shroom-spawn_use-spawn-x":true,
+        "shroom-spawn_use-spawn-y":true,
         "shroom-spawn_angle":0.0,
         "shroom-spawn_channels-spawn-x":50.0,
         "shroom-spawn_channels-spawn-y":50.0,
@@ -560,17 +559,17 @@
         "shroom-spawn_use-angle":true,
         "shroom-spawn_use-preview":true,
         "shroom-spawn_use-snap-h":false,
-        "shroom-spawn_use-snap-v":false,
-        "shroom-spawn_use-spawn-x":true,
-        "shroom-spawn_use-spawn-y":true
+        "shroom-spawn_use-snap-v":false
       },
-      "type":"brush_shroom_spawn",
-      "name":"baron-1-zig-l"
+      "name":"baron-1-zig-l",
+      "texture":"texture_baron",
+      "type":"brush_shroom_spawn"
     },
     {
       "color":"#0000FF",
-      "texture":"texture_baron",
       "properties":{
+        "shroom-spawn_use-spawn-x":true,
+        "shroom-spawn_use-spawn-y":true,
         "shroom-spawn_angle":0.0,
         "shroom-spawn_channels-spawn-x":50.0,
         "shroom-spawn_channels-spawn-y":50.0,
@@ -585,12 +584,13 @@
         "shroom-spawn_use-angle":true,
         "shroom-spawn_use-preview":true,
         "shroom-spawn_use-snap-h":false,
-        "shroom-spawn_use-snap-v":true,
-        "shroom-spawn_use-spawn-x":true,
-        "shroom-spawn_use-spawn-y":true
+        "shroom-spawn_use-snap-v":true
       },
-      "type":"brush_shroom_spawn",
-      "name":"baron-1-zig-l-p2x3"
+      "name":"baron-1-zig-l-p2x3",
+      "texture":"texture_baron",
+      "type":"brush_shroom_spawn"
     }
-  ]
+  ],
+  "model":"Collection<io.alkapivo.visu.editor.api.VEBrushTemplate>",
+  "version":"1"
 }

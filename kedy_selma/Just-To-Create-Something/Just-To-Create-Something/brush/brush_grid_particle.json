@@ -1,12 +1,8 @@
 {
-  "model":"Collection<io.alkapivo.visu.editor.api.VEBrushTemplate>",
-  "version":"1",
   "data":[
     {
       "color":"#146CFF",
-      "texture":"texture_visu_editor_icon_event_grid_particle",
       "properties":{
-        "grid-particle_use-preview":true,
         "grid-particle_amount":30.0,
         "grid-particle_beginX":-1.5,
         "grid-particle_beginY":-1.0,
@@ -16,10 +12,14 @@
         "grid-particle_endY":1.5,
         "grid-particle_interval":0.22,
         "grid-particle_shape":"RECTANGLE",
-        "grid-particle_template":"particle-default"
+        "grid-particle_template":"particle-default",
+        "grid-particle_use-preview":true
       },
-      "type":"brush_grid_particle",
-      "name":"particle default"
+      "name":"particle default",
+      "texture":"texture_visu_editor_icon_event_grid_particle",
+      "type":"brush_grid_particle"
     }
-  ]
+  ],
+  "model":"Collection<io.alkapivo.visu.editor.api.VEBrushTemplate>",
+  "version":"1"
 }
