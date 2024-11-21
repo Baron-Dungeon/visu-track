@@ -25,7 +25,16 @@
           }
         },
         {
-          "name": "zoogies",
+          "name": "Sewerslvt",
+          "event": {
+            "type": "open-node",
+            "data": {
+              "node": "root.artists.sewerslvt"
+            }
+          }
+        },
+        {
+          "name": "Zoogies",
           "event": {
             "type": "open-node",
             "data": {
@@ -69,6 +78,21 @@
             "type": "load-track",
             "data": {
               "path": "track/Schnoopy/Proxima/Destination-Unknown/manifest.visu"
+            }
+          }
+        }
+      ]
+    },
+    "root.artists.sewerslvt": {
+      "title": "Select track",
+      "back": "root.artists",
+      "entries": [
+        {
+          "name": "Psychosis",
+          "event": {
+            "type": "load-track",
+            "data": {
+              "path": "track/Sewerslvt/The-World-is-Fvcked/Psychosis/manifest.visu"
             }
           }
         }

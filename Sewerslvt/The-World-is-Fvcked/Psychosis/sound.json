@@ -1,0 +1,9 @@
+{
+  "version":"1",
+  "data":{
+    "sound_external":{
+      "file":"Sewerslvt-Psychosis.ogg"
+    }
+  },
+  "model":"Collection<io.alkapivo.core.service.sound.SoundIntent>"
+}

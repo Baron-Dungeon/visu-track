@@ -1,0 +1,36 @@
+{
+  "version":"1",
+  "data":{
+    "lyrics_sewerslvt":{
+      "lines":[
+        "Sewerslvt",
+        ""
+      ]
+    },
+    "lyrics_alkapivo":{
+      "lines":[
+        "Alkapivo",
+        "2024"
+      ]
+    },
+    "lyrics_schnoopy":{
+      "lines":[
+        "Schnoopy",
+        ""
+      ]
+    },
+    "lyrics_sewerslvt_psychosis":{
+      "lines":[
+        "",
+        "Psychosis"
+      ]
+    },
+    "lyrics_schnoopy_destination_unknown":{
+      "lines":[
+        "",
+        "Destination Unknown"
+      ]
+    }
+  },
+  "model":"Collection<io.alkapivo.visu.service.lyrics.LyricsTemplate>"
+}
