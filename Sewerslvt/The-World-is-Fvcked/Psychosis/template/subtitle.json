@@ -1,0 +1,36 @@
+{
+  "version":"1",
+  "data":{
+    "subtitle_alkapivo":{
+      "lines":[
+        "Alkapivo",
+        "2024"
+      ]
+    },
+    "subtitle_sewerslvt":{
+      "lines":[
+        "Sewerslvt",
+        ""
+      ]
+    },
+    "subtitle_schnoopy_destination_unknown":{
+      "lines":[
+        "",
+        "Destination Unknown"
+      ]
+    },
+    "subtitle_sewerslvt_psychosis":{
+      "lines":[
+        "",
+        "Psychosis"
+      ]
+    },
+    "subtitle_schnoopy":{
+      "lines":[
+        "Schnoopy",
+        ""
+      ]
+    }
+  },
+  "model":"Collection<io.alkapivo.visu.service.subtitle.SubtitleTemplate>"
+}

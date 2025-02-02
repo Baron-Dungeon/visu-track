@@ -1,136 +1,174 @@
 {
+  "version":"1",
   "data":{
     "bullet-swing":{
-      "angleWiggleInterval":{
-        "increase":0.0001,
-        "target":0.050000000000000003,
-        "value":0.0,
-        "factor":0.001
-      },
-      "angleWiggleValue":{
-        "increase":0.0,
-        "target":26.0,
-        "value":0.0,
-        "factor":2.0
-      },
-      "randomDirection":true,
-      "sprite":{
-        "scaleX":4.0,
-        "alpha":1.0,
-        "scaleY":4.0,
-        "name":"texture_bullet_circle",
-        "animate":false,
-        "blend":"#FFFFFF",
-        "randomFrame":true,
-        "speed":10.0,
-        "angle":0.0,
-        "frame":2.0
-      },
+      "useSpeedOffset":false,
       "mask":{
-        "width":36.0,
         "x":12.0,
+        "height":40.0,
         "y":12.0,
-        "height":36.0
+        "width":40.0
       },
       "lifespawnMax":10.0,
-      "angleTransformer":{
+      "changeAngleOffset":false,
+      "wiggle":true,
+      "changeSpeedOffset":false,
+      "wiggleAmplitude":10.0,
+      "wiggleDirRng":true,
+      "wiggleFrequency":5.0,
+      "wiggleTime":6.0,
+      "wiggleTimeRng":true,
+      "angleOffset":{
+        "factor":0.20000000000000001,
+        "overrideValue":false,
         "increase":0.0,
-        "target":-15.0,
+        "target":15.0,
         "value":0.0,
-        "factor":0.20000000000000001
-      }
+        "startFactor":0.20000000000000001,
+        "startValue":0.0,
+        "finished":false
+      },
+      "sprite":{
+        "frame":1.0,
+        "angle":0.0,
+        "alpha":1.0,
+        "randomFrame":true,
+        "animate":false,
+        "speed":10.0,
+        "blend":"#FFFFFF",
+        "scaleX":4.0,
+        "scaleY":4.0,
+        "name":"texture_bullet_circle"
+      },
+      "angleOffsetRng":true,
+      "useAngleOffset":false
     },
     "bullet-baron-1-boom":{
-      "sprite":{
-        "scaleX":7.5,
-        "alpha":1.0,
-        "scaleY":7.5,
-        "name":"texture_bullet_circle",
-        "animate":false,
-        "blend":"#FFFFFF",
-        "randomFrame":true,
-        "speed":10.0,
-        "angle":0.0,
-        "frame":1.0
-      },
+      "useSpeedOffset":false,
       "mask":{
-        "width":36.0,
         "x":12.0,
+        "height":40.0,
         "y":12.0,
-        "height":36.0
+        "width":40.0
+      },
+      "angleOffset":{
+        "factor":0.5,
+        "overrideValue":false,
+        "increase":0.0050000000000000001,
+        "target":90.0,
+        "value":0.0,
+        "startFactor":1.0,
+        "startValue":0.0,
+        "finished":false
+      },
+      "sprite":{
+        "frame":0.0,
+        "angle":0.0,
+        "alpha":1.0,
+        "randomFrame":true,
+        "animate":false,
+        "speed":10.0,
+        "blend":"#FFFFFF",
+        "scaleX":7.5,
+        "scaleY":7.5,
+        "name":"texture_bullet_circle"
       },
       "lifespawnMax":10.0,
-      "randomDirection":true
+      "angleOffsetRng":true,
+      "changeAngleOffset":false,
+      "wiggle":false,
+      "changeSpeedOffset":false,
+      "useAngleOffset":false
     },
     "bullet-shroom":{
-      "sprite":{
-        "scaleX":3.5,
-        "alpha":1.0,
-        "scaleY":3.5,
-        "name":"texture_bullet",
-        "animate":false,
-        "blend":"#FFFFFF",
-        "randomFrame":false,
-        "speed":10.0,
-        "angle":0.0,
-        "frame":4.0
-      },
+      "useSpeedOffset":false,
       "mask":{
-        "width":36.0,
-        "x":12.0,
-        "y":12.0,
-        "height":36.0
-      }
+        "x":16.0,
+        "height":32.0,
+        "y":16.0,
+        "width":32.0
+      },
+      "sprite":{
+        "frame":0.0,
+        "angle":0.0,
+        "alpha":1.0,
+        "randomFrame":true,
+        "animate":false,
+        "speed":10.0,
+        "blend":"#FFFFFF",
+        "scaleX":3.5,
+        "scaleY":3.5,
+        "name":"texture_bullet"
+      },
+      "angleOffsetRng":false,
+      "changeAngleOffset":false,
+      "wiggle":false,
+      "changeSpeedOffset":false,
+      "useAngleOffset":false
     },
     "bullet-player":{
+      "useSpeedOffset":false,
+      "mask":{
+        "x":16.0,
+        "height":32.0,
+        "y":16.0,
+        "width":32.0
+      },
       "sprite":{
-        "scaleX":2.0,
-        "alpha":0.82113800000000003,
-        "scaleY":4.0,
-        "name":"texture_bullet",
-        "animate":1.0,
-        "blend":"#FFFFFF",
-        "randomFrame":false,
-        "speed":10.0,
+        "frame":4.4332533333333313,
         "angle":0.0,
-        "frame":0.55920966666666683
-      }
+        "alpha":0.82113800000000003,
+        "randomFrame":true,
+        "animate":1.0,
+        "speed":10.0,
+        "blend":"#FFFFFF",
+        "scaleX":2.0,
+        "scaleY":4.0,
+        "name":"texture_bullet"
+      },
+      "angleOffsetRng":false,
+      "changeAngleOffset":false,
+      "wiggle":false,
+      "changeSpeedOffset":false,
+      "useAngleOffset":false
     },
     "bullet-bazyl-1-boom":{
-      "randomDirection":true,
-      "sprite":{
-        "scaleX":5.0,
-        "alpha":1.0,
-        "scaleY":5.0,
-        "name":"texture_bullet_circle",
-        "animate":true,
-        "blend":"#FFFFFF",
-        "randomFrame":false,
-        "speed":10.0,
-        "angle":0.0,
-        "frame":1.19648
-      },
+      "useSpeedOffset":false,
       "mask":{
-        "width":36.0,
         "x":12.0,
+        "height":40.0,
         "y":12.0,
-        "height":36.0
+        "width":40.0
       },
-      "speedTransformer":{
-        "increase":0.0,
-        "target":6.0,
+      "angleOffset":{
+        "factor":0.20000000000000001,
+        "overrideValue":false,
+        "increase":0.001,
+        "target":210.0,
         "value":0.0,
-        "factor":0.20000000000000001
+        "startFactor":1.0,
+        "startValue":0.0,
+        "finished":false
+      },
+      "sprite":{
+        "frame":0.26380599999999998,
+        "angle":0.0,
+        "alpha":1.0,
+        "randomFrame":false,
+        "animate":true,
+        "speed":10.0,
+        "blend":"#FFFFFF",
+        "scaleX":5.0,
+        "scaleY":5.0,
+        "name":"texture_bullet_circle"
       },
       "lifespawnMax":10.0,
-      "angleTransformer":{
-        "increase":0.0,
-        "target":30.0,
-        "value":0.0,
-        "factor":1.0
-      }
+      "angleOffsetRng":true,
+      "changeAngleOffset":false,
+      "wiggle":false,
+      "changeSpeedOffset":false,
+      "useAngleOffset":false
     }
   },
-  "model":"Collection<io.alkapivo.visu.service.bullet.BulletTemplate>",
-  "version":"1"
+  "model":"Collection<io.alkapivo.visu.service.bullet.BulletTemplate>"
 }

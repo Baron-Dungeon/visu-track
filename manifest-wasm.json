@@ -25,7 +25,7 @@
           }
         },
         {
-          "name": "zoogies",
+          "name": "Zoogies",
           "event": {
             "type": "open-node",
             "data": {

@@ -88,6 +88,15 @@
       "back": "root.artists",
       "entries": [
         {
+          "name": "Purple Hearts In Her Eyes",
+          "event": {
+            "type": "load-track",
+            "data": {
+              "path": "track/Sewerslvt/Skitzofrenia-Simulation/Purple-Hearts-In-Her-Eyes/manifest.visu"
+            }
+          }
+        },
+        {
           "name": "Psychosis",
           "event": {
             "type": "load-track",
